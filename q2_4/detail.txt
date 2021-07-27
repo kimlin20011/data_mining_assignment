@@ -1,0 +1,12 @@
+添付ファイルは10000件の人工的な売上げデータです。
+売上げデータから、相関ルールを抽出してください。最小カバレッジは1000, 最小精度は50%とします。抽出されたルールを提出してください。
+任意のツール、ライブラリを使用して構いません。(scikit-learn, weka, Rなど）
+
+Attached file is artificial sales data for 10000 of sales.
+Please extract the correlation rules from the sales data. Minimum coverage is 1000, minimum accuracy is 60%. Please submit the extracted rules.
+You can use any tools or libraries you like. (, wscikit-learneka, R, etc.)
+
+reference
+https://ithelp.ithome.com.tw/articles/10204460
+
+Association-Rule-Mining-Python
