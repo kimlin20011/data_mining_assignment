@@ -28,4 +28,4 @@ test_y_predicted = forest.predict(test_X)
 
 # 績效
 accuracy = metrics.accuracy_score(test_y, test_y_predicted)
-print(accuracy)
+print("Random Forest Classifier Accuracy", accuracy)

@@ -31,7 +31,7 @@ test_y_predicted = iris_clf.predict(test_X)
 
 # 績效
 accuracy = metrics.accuracy_score(test_y, test_y_predicted)
-print(accuracy)
+print("Decision Tree Classifier Accuracy", accuracy)
 
 plt.figure()
 # draw graph
