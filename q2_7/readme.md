@@ -16,3 +16,9 @@ Then, using the rest of the data, conduct the k nearest neighbor method to class
 Any tools and libraries are available. Of course, it is ok you don't use them.
 
 Deadline: 8/13(Fri)
+
+
+
+# reference 
+* https://zh.codeprj.com/blog/b791fc1.html
+* https://stackoverflow.com/questions/62003285/how-can-we-find-the-optimum-k-value-in-k-nearest-neighbor
